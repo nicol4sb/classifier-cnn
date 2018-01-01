@@ -1,3 +1,5 @@
+My fork of Uda-city repo for the second project on CNNs/Dog breed classifier.
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
