@@ -8,3 +8,4 @@ bottleneck_features/DogVGG16Data.npz
 DogVGG16Data.npz
 dogImages.zip
 lfw.zip
+__pycache__
