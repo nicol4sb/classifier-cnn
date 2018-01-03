@@ -9,3 +9,4 @@ DogVGG16Data.npz
 dogImages.zip
 lfw.zip
 __pycache__
+bottleneck_features/DogResnet50Data.npz
